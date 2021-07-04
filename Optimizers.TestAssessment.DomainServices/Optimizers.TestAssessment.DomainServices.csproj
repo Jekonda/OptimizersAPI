@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Optimizers.TestAssessment.DomainModels\Optimizers.TestAssessment.DomainModels.csproj" />
+      <ProjectReference Include="..\Optimizers.TestAssessment.Repositories\Optimizers.TestAssessment.Repositories.csproj" />
+    </ItemGroup>
+
+</Project>

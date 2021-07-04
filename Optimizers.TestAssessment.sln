@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizers.TestAssessment.API", "Optimizers.TestAssessment.API\Optimizers.TestAssessment.API.csproj", "{D13AAC2E-EBDD-4916-B905-2CB702803EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizers.TestAssessment.Repositories", "Optimizers.TestAssessment.Repositories\Optimizers.TestAssessment.Repositories.csproj", "{2F51C687-F727-4507-8A83-21CC7C10D16B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizers.TestAssessment.DomainServices", "Optimizers.TestAssessment.DomainServices\Optimizers.TestAssessment.DomainServices.csproj", "{0B8493E3-0FD2-4A67-AF0C-F45F81C0556C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizers.TestAssessment.DomainModels", "Optimizers.TestAssessment.DomainModels\Optimizers.TestAssessment.DomainModels.csproj", "{059816B2-1BD6-48D6-B531-F8EF7A8F09AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizers.TestAssessment.Tests", "Optimizers.TestAssessment.Tests\Optimizers.TestAssessment.Tests.csproj", "{10B6A0F3-BA4E-414A-9961-71C744BF1218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimizers.TestAssessment.Database", "Optimizers.TestAssessment.Database\Optimizers.TestAssessment.Database.csproj", "{BC2CFBED-D22C-4B35-87DE-2B7766821A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13AAC2E-EBDD-4916-B905-2CB702803EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13AAC2E-EBDD-4916-B905-2CB702803EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13AAC2E-EBDD-4916-B905-2CB702803EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13AAC2E-EBDD-4916-B905-2CB702803EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F51C687-F727-4507-8A83-21CC7C10D16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F51C687-F727-4507-8A83-21CC7C10D16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F51C687-F727-4507-8A83-21CC7C10D16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F51C687-F727-4507-8A83-21CC7C10D16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8493E3-0FD2-4A67-AF0C-F45F81C0556C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8493E3-0FD2-4A67-AF0C-F45F81C0556C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8493E3-0FD2-4A67-AF0C-F45F81C0556C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8493E3-0FD2-4A67-AF0C-F45F81C0556C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059816B2-1BD6-48D6-B531-F8EF7A8F09AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059816B2-1BD6-48D6-B531-F8EF7A8F09AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059816B2-1BD6-48D6-B531-F8EF7A8F09AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059816B2-1BD6-48D6-B531-F8EF7A8F09AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B6A0F3-BA4E-414A-9961-71C744BF1218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B6A0F3-BA4E-414A-9961-71C744BF1218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B6A0F3-BA4E-414A-9961-71C744BF1218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B6A0F3-BA4E-414A-9961-71C744BF1218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2CFBED-D22C-4B35-87DE-2B7766821A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2CFBED-D22C-4B35-87DE-2B7766821A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2CFBED-D22C-4B35-87DE-2B7766821A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2CFBED-D22C-4B35-87DE-2B7766821A76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
